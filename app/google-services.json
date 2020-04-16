@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805102286892",
+    "firebase_url": "https://yudale-db.firebaseio.com",
+    "project_id": "yudale-db",
+    "storage_bucket": "yudale-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805102286892:android:98e07839fd1aa6f5",
+        "android_client_info": {
+          "package_name": "yair.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805102286892-e10jlat453b3ohlc8sprtcss58kf2gqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yair.test",
+            "certificate_hash": "3b51734bf476127066bcb2c37c98432ec33bf553"
+          }
+        },
+        {
+          "client_id": "805102286892-v0amaq7osuk5vagpc1a52ed7a3cio3q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYbL5EuYWFLkSzeI3uQUa7NfaoKe6TjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805102286892-v0amaq7osuk5vagpc1a52ed7a3cio3q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
